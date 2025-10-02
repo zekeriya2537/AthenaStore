@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zekeriya2537.github.io/AthenaStore/sitemap.xml
